@@ -9,6 +9,24 @@ main:
     image: ./assets/files/ascend.jpg
     notes: Open Source
 
+  - title: "[华为昇腾AI][Pytorch迁移1.8][EfficientNet-B5]"
+    authors: Xingyue Zhao
+    project_short: project
+    project: "This project enabled EfficientNet-B5 to be migrated across versions using Huawei Ascend GPU."
+    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web: https://gitee.com/ascend/ModelZoo-PyTorch/tree/master
+    image: ./assets/files/ascend.jpg
+    notes: Open Source
+
+  - title: "[华为昇腾AI][Pytorch迁移1.8][SpanBERT]"
+    authors: Xingyue Zhao
+    project_short: project
+    project: "This project enabled SpanBERT to be migrated across versions using Huawei Ascend GPU."
+    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web: https://gitee.com/ascend/ModelZoo-PyTorch/tree/master
+    image: ./assets/files/ascend.jpg
+    notes: Open Source
+
   # - title: Anomalous Hall Effect Measurement System (AHEMS)
   #   authors: Song Chen
   #   project_short: Software
