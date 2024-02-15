@@ -1,0 +1,10 @@
+@article{li2023d,
+  title={D-LMBmap: a fully automated deep-learning pipeline for whole-brain profiling of neural circuitry},
+  author={Li, Zhongyu and Shang, Zengyi and Liu, Jingyi and Zhen, Haotian and Zhu, Entao and Zhong, Shilin and Sturgess, Robyn N and Zhou, Yitian and Hu, Xuemeng and Zhao, Xingyue and others},
+  journal={Nature Methods},
+  volume={20},
+  number={10},
+  pages={1593--1604},
+  year={2023},
+  publisher={Nature Publishing Group US New York}
+}
