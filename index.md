@@ -8,11 +8,10 @@ layout: homepage
 
 I am currently a 2th-year Master student at [Xi’an Jiaotong University](https://www.xjtu.edu.cn/), working under the mentorship of Dr. [Zhongyu Li](https://gr.xjtu.edu.cn/en/web/zhongyuli). My research involves medical image analysis, particularly in annotation-efficient learning and segmentation foundation model.
 ## Research Interest:
-- **Ion-material Simulation:** SRIM, iradina, IMSIL, CORETO, TRIDYN, MARLOWE, RustBCA
-- **Machine Learning:** fairness AI, penalization and augmentation methods
-- **E-field controlled magnetization** VCMA, Strain-mediated ME (Magnetoelectric) Effects, Straintronic, iontronic, E-filed induced spin reorientation, SOT.
-- **Micro-, Nanofabrication**
-- **Neuromorphic Computing** Neuromorphic Sensing and Perception, Hybrid Computing Systems, Brain-Inspired Robotics
+- **Medical Image Analysis:** image segmentation, foundation model
+- **Machine Learning:** weakly-supervised learning
+- **Computational Neuroscience** Whole brain segmentation of neurons, projection and reconstruction of neural circuits
+
 {% include_relative _includes/news.md %}
 
 {% include_relative _includes/publications.md %}
