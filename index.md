@@ -8,9 +8,9 @@ layout: homepage
 
 I am currently a 2th-year Master student at [Xi’an Jiaotong University](https://www.xjtu.edu.cn/), working under the mentorship of Dr. [Zhongyu Li](https://gr.xjtu.edu.cn/en/web/zhongyuli). My research involves medical image analysis, particularly in annotation-efficient learning and segmentation foundation model.
 ## Research Interest:
-- **Medical Image Analysis:** image segmentation, foundation model
-- **Machine Learning:** weakly-supervised learning
-- **Computational Neuroscience** Whole brain segmentation of neurons, projection and reconstruction of neural circuits
+- **Medical Image Analysis:**  image segmentation, foundation model
+- **Machine Learning:**  weakly-supervised learning
+- **Computational Neuroscience:**  Whole brain segmentation of neurons, projection and reconstruction of neural circuits
 
 {% include_relative _includes/news.md %}
 
