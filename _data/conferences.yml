@@ -8,15 +8,15 @@ main:
   #   image: ./assets/img/autova.png
   #   notes: 
 
-  - title: Reversible and Non-volatile Magneto-ionic effect in W-CoFeB-MgO-HfO2 ultra-thin films with Perpendicular Anisotropy
-    authors: Song Chen, Elmer Monteblanco, Rohit Pachat, Liza Herrera Diez, Dafiné Ravelosona
-    conference_short: JEMS
-    conference: 13th Joint European Magnetic Symposia
-    pdf: ./assets/files/JEMS2023_Song.pdf
-    web: https://www.jems2023.es/
-    bibtex: ./assets/files/natureMethods.txt
-    image: ./assets/files/JEMS2023_2.jpg
-    notes: Accepted
+  - title: SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching
+    authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
+    conference_short: ISBI
+    conference: 2024 IEEE International Symposium on Biomedical Imaging
+    # pdf: ./assets/files/JEMS2023_Song.pdf
+    # web: https://www.jems2023.es/
+    # bibtex: ./assets/files/natureMethods.txt
+    image: ./assets/files/ISBI.jpg
+    notes: Accepted (oral)
 
   # - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
   #   conference_short: BeMAGIC
