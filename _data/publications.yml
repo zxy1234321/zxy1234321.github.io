@@ -19,7 +19,7 @@ main:
     pdf: 
     page: 
     bibtex: 
-    image: 
+    image: ./assets/files/TCSVT.jpg
     notes: Accepted
 
   # - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
