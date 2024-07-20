@@ -25,7 +25,7 @@ main:
     # pdf: ./assets/files/JEMS2023_Song.pdf
     # web: https://www.jems2023.es/
     # bibtex: ./assets/files/natureMethods.txt
-    image: ./assets/files/ISBI.jpg
+    # image: ./assets/files/ISBI.jpg
     notes: Accepted
     
 
