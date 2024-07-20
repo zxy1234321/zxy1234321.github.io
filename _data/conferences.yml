@@ -18,7 +18,7 @@ main:
     image: ./assets/files/ISBI.jpg
     notes: Accepted (oral)
 
-  - title: SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching
+  - title: HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
     authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
     conference_short: ISBI
     conference: 2024 IEEE International Symposium on Biomedical Imaging (ISBI 2024)
