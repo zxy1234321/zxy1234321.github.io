@@ -12,7 +12,7 @@ main:
     authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
     conference_short: ISBI
     conference: 2024 IEEE International Symposium on Biomedical Imaging (ISBI 2024)
-    # pdf: ./assets/files/JEMS2023_Song.pdf
+    pdf: https://arxiv.org/abs/2407.13553
     # web: https://www.jems2023.es/
     # bibtex: ./assets/files/natureMethods.txt
     image: ./assets/files/ISBI.jpg
