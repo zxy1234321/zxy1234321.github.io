@@ -1,4 +1,4 @@
-<img width="501" alt="image" src="https://github.com/user-attachments/assets/9b3d616d-46dc-4e60-9e8f-a71c6a73f82d"><h1 id="news"></h1>
+<h1 id="news"></h1>
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
