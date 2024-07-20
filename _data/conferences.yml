@@ -8,7 +8,7 @@ main:
   #   image: ./assets/img/autova.png
   #   notes: 
 
-  - title: SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching
+  - title: "SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching"
     authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
     conference_short: ISBI
     conference: 2024 IEEE International Symposium on Biomedical Imaging (ISBI 2024)
@@ -18,15 +18,12 @@ main:
     image: ./assets/files/ISBI.jpg
     notes: Accepted (oral)
 
-  - title: HFGS\: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
-    authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
-    conference_short: ISBI
-    conference: 2024 IEEE International Symposium on Biomedical Imaging (ISBI 2024)
-    # pdf: ./assets/files/JEMS2023_Song.pdf
-    # web: https://www.jems2023.es/
-    # bibtex: ./assets/files/natureMethods.txt
-    image: ./assets/files/ISBI.jpg
-    notes: Accepted (oral)
+- title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
+    authors: "<strong>Haoyu Zhao*</strong>, Xingyue Zhao*, Lingting Zhu, Weixi Zheng, Yongchao Xu(*equal contribution)"
+    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.17872
+    code: https://github.com/zhaohaoyu376/HFGS
+    notes: Accepted
 
   # - title: HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
   #   authors: Haoyu Zhao*, <strong>Xingyue Zhao*</strong>, Lingting Zhu, Weixi Zheng, Yongchao Xu
