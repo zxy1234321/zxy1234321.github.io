@@ -18,15 +18,15 @@ main:
     image: ./assets/files/ISBI.jpg
     notes: Accepted (oral)
 
-  - title: HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
-    authors: Haoyu Zhao*, <strong>Xingyue Zhao*</strong>, Lingting Zhu, Weixi Zheng, Yongchao Xu
-    conference_short: BMVC
-    conference: BMVC 2024
-    # pdf: ./assets/files/JEMS2023_Song.pdf
-    # web: https://www.jems2023.es/
-    # bibtex: ./assets/files/natureMethods.txt
-    # image: ./assets/files/ISBI.jpg
-    notes: Accepted
+  # - title: HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction
+  #   authors: Haoyu Zhao*, <strong>Xingyue Zhao*</strong>, Lingting Zhu, Weixi Zheng, Yongchao Xu
+  #   conference_short: BMVC
+  #   conference: BMVC 2024
+  #   # pdf: ./assets/files/JEMS2023_Song.pdf
+  #   # web: https://www.jems2023.es/
+  #   # bibtex: ./assets/files/natureMethods.txt
+  #   # image: ./assets/files/ISBI.jpg
+  #   notes: Accepted
     
 
   # - title: BeMAGIC CONFERENCE IN TORINO – POST EVENT
