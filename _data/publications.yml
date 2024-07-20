@@ -9,17 +9,17 @@ main:
     pdf: https://www.nature.com/articles/s41592-023-01998-6
     page: https://github.com/lmbneuron/D-LMBmap
     bibtex: ./assets/files/natureMethods.txt
-    image: ./assets/files/natureMethods.jpg
+    #image: ./assets/files/natureMethods.jpg
     notes: Published
 
   - title: "Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation"
     authors: "<strong>Xingyue Zhao</strong>, Zhongyu Li, Xiangde Luo, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
     conference_short: TCSVT
-    conference: IEEE Transactions on Circuits and Systems for Video Technology
-    pdf: 
-    page: 
-    bibtex: 
-    image: ./assets/files/TCSVT.jpg
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    pdf: https://ieeexplore.ieee.org/abstract/document/10508987/
+    page: https://github.com/NeuronXJTU/CRBNet
+    bibtex: ./assets/files/TCSVT.txt
+    #image: ./assets/files/TCSVT.jpg
     notes: Accepted
 
   # - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
