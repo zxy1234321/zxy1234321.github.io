@@ -1,16 +1,11 @@
-<h1 id="news"></h1>
+<img width="501" alt="image" src="https://github.com/user-attachments/assets/9b3d616d-46dc-4e60-9e8f-a71c6a73f82d"><h1 id="news"></h1>
 
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
 
-<li><strong>[DEC. 2023]</strong> The <span style="color:#e74d3c"><a href="https://songchen.science/blog/gallery/">Hitchhiker's Gallery</a></span> has been released, thanks to anzai's <span style="color:#e74d3c"><a href="https://github.com/anzai249/easy-masonry/tree/main">work: easy-masonry</a></span> </li>
-<li><strong>[NOV. 2023]</strong> The <span style="color:#e74d3c"><a href="https://bemagic-etn.eu/news/80-bemagic-final-event">Final Event of the BeMAGIC project</a></span> will take place in the Universitat Autònoma de Barcelona, Spain, on 14-15 December. </li>
-<li><strong>[NOV. 2023]</strong> AHEMS: <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/AHEMS/">Anomalous Hall Effect Measurement System</a></span> has been released.</li>
-<li><strong>[NOV. 2023]</strong> <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net/?/I-V/">I-V Measurement System</a></span> has been released.</li>
-<li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now integrated an <span style="color:#e74d3c"><a href="https://hitchhiker.azurewebsites.net">onedrive file list program</a></span> implemented by calling API.</li>
-<li><strong>[OCT. 2023]</strong> The Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> has now a <span style="color:#e74d3c"><a href="https://songchen.science/blog/zh-CN">chinese version</a></span>. The content inside can be separately edited. Later maybe a german version.</li>
-<li><strong>[OCT. 2023]</strong> A Tech Blog <span style="color:#e74d3c"><a href="https://songchen.science/blog/">"The Hitchhiker's Guide to Galaxy"</a></span> was integrated to this personal homepage, the webblog is based on <span style="color:#e74d3c"><a href="https://hexo.io/">Hexo</a></span>: a webblog framework</li>
+
+<li><strong>[2. 2024]</strong> Our paper SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching was accepted by <strong>ISBI 2024</strong>, thanks to all co-authors</li>
 <li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
 
 <div id="newsmore" style="display:none">
