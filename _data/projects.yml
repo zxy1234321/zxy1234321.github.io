@@ -1,0 +1,48 @@
+main:
+
+  - title: "[华为昇腾AI][PyTorch离线推理][SpanBERT]"
+    authors: Xingyue Zhao
+    project_short: project
+    project: "This project realizes the function of offline model inference for SpanBERT using Huawei Ascend GPU."
+    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web: https://gitee.com/ascend/ModelZoo-PyTorch/tree/master
+    image: ./assets/files/ascend.jpg
+    notes: Open Source
+
+  - title: "[华为昇腾AI][Pytorch迁移1.8][EfficientNet-B5]"
+    authors: Xingyue Zhao
+    project_short: project
+    project: "This project enabled EfficientNet-B5 to be migrated across versions using Huawei Ascend GPU."
+    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web: https://gitee.com/ascend/ModelZoo-PyTorch/tree/master
+    image: ./assets/files/ascend.jpg
+    notes: Open Source
+
+  - title: "[华为昇腾AI][Pytorch迁移1.8][SpanBERT]"
+    authors: Xingyue Zhao
+    project_short: project
+    project: "This project enabled SpanBERT to be migrated across versions using Huawei Ascend GPU."
+    # pdf: https://goindex.chen-song90.workers.dev/0:/I-V/
+    web: https://gitee.com/ascend/ModelZoo-PyTorch/tree/master
+    image: ./assets/files/ascend.jpg
+    notes: Open Source
+
+  # - title: Anomalous Hall Effect Measurement System (AHEMS)
+  #   authors: Song Chen
+  #   project_short: Software
+  #   project: The software is used to obatin the AHE hysteresis loops which is based on he relationship between the anomalous Hall conductivity and an external magnetic field applied to a material.
+  #   pdf: https://goindex.chen-song90.workers.dev/0:/AHEMS/
+  #   web: https://goindex.chen-song90.workers.dev/0:/AHEMS/
+  #   image: https://blog.songchen.science/images/AHE/GUI.png
+  #   notes:
+
+  # - title: AutoVA - Automated VCMA & AHE Measurement System
+  #   authors: Song Chen
+  #   project_short: Software
+  #   project: The software is used to 1. control the E-field applied for the VCMA/Magnetoelectric coupling; 2. to control the elctromagnetic field; 3. to control the SMU to apply one bias current ,and meanwhile measuring the Hall voltage. All the parameters can be set correspondingly and sequencer can be made to realize the automation.
+  #   pdf: https://goindex.chen-song90.workers.dev/0:/AutoVA/
+  #   web: https://goindex.chen-song90.workers.dev/0:/AutoVA/
+  #   image: ./assets/img/autova.png
+  #   notes: Non-Open Source
+
+

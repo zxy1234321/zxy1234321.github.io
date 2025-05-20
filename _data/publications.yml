@@ -1,0 +1,45 @@
+main:
+
+  - title: "D-LMBmap: a fully automated deep-learning pipeline for whole-brain profiling of neural circuitry"
+    authors: "Zhongyu Li, Zengyi Shang, Jingyi Liu, Haotian Zhen, Entao Zhu, Shilin Zhong, Robyn N. Sturgess, Yitian Zhou, Xuemeng Hu, <strong>Xingyue Zhao</strong>, Yi Wu, Peiqi Li, Rui Lin, Jing Ren"
+    # conference_short: Nature Methods
+    conference: Nature Methods
+    # pdf: ./assets/files/multi.pdf
+    # page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+    pdf: https://www.nature.com/articles/s41592-023-01998-6
+    page: https://github.com/lmbneuron/D-LMBmap
+    bibtex: ./assets/files/natureMethods.txt
+    #image: ./assets/files/natureMethods.jpg
+    notes: Published
+
+  - title: "Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation"
+    authors: "<strong>Xingyue Zhao*</strong>, Zhongyu Li*, Xiangde Luo*, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
+    # conference_short: TCSVT
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    pdf: https://ieeexplore.ieee.org/abstract/document/10508987/
+    page: https://github.com/NeuronXJTU/CRBNet
+    bibtex: ./assets/files/TCSVT.txt
+    #image: ./assets/files/TCSVT.jpg
+    notes: Accepted
+
+  # - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
+  #   authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
+  #   conference_short: Adv. Mater. Interfaces
+  #   conference: Advanced Materials Interfaces
+  #   pdf: https://onlinelibrary.wiley.com/doi/pdf/10.1002/admi.202200690
+  #   page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
+  #   bibtex: ./assets/files/magnetoionic.txt
+  #   image: ./assets/files/admi202270196-gra-0001-m.jpg
+  #   notes: Published
+
+  # - title: Flexible multielectrode arrays based electrochemical aptasensor for glycated human serum albumin detection
+  #   authors: Lei Zhou, Gabriela Figueroa-Miranda, <strong>Song Chen</strong>, Marc Neis, Ziheng Hu, Ruifeng Zhu, Yaqi Li, Michael Prömpers, Andreas Offenhäusser, Dirk Mayer
+  #   conference_short: Sens. Actuators B Chem.
+  #   conference: Sensors and Actuators B Chemical
+  #   pdf: ./assets/files/SSRN-id4328224.pdf
+  #   page: https://www.sciencedirect.com/science/article/abs/pii/S0925400523004458
+  #   bibtex: ./assets/files/flexible.txt
+  #   image: ./assets/files/1-s2.0-S0925400523004458-ga1_lrg.jpg
+  #   notes: Published
+
+  
