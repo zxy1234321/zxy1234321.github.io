@@ -3,19 +3,19 @@ main:
   - title: "D-LMBmap: a fully automated deep-learning pipeline for whole-brain profiling of neural circuitry"
     authors: "Zhongyu Li, Zengyi Shang, Jingyi Liu, Haotian Zhen, Entao Zhu, Shilin Zhong, Robyn N. Sturgess, Yitian Zhou, Xuemeng Hu, <strong>Xingyue Zhao</strong>, Yi Wu, Peiqi Li, Rui Lin, Jing Ren"
     # conference_short: Nature Methods
-    conference: Nature Methods
+    conference: Nature Methods, 2023
     # pdf: ./assets/files/multi.pdf
     # page: https://www.sciencedirect.com/science/article/abs/pii/S0925400521013800?via%3Dihub
     pdf: https://www.nature.com/articles/s41592-023-01998-6
     page: https://github.com/lmbneuron/D-LMBmap
     bibtex: ./assets/files/natureMethods.txt
     #image: ./assets/files/natureMethods.jpg
-    notes: Published
+    notes: Accepted
 
   - title: "Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation"
     authors: "<strong>Xingyue Zhao</strong>, Zhongyu Li, Xiangde Luo, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
     # conference_short: TCSVT
-    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+    conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2024
     pdf: https://ieeexplore.ieee.org/abstract/document/10508987/
     page: https://github.com/NeuronXJTU/CRBNet
     bibtex: ./assets/files/TCSVT.txt
