@@ -2,7 +2,10 @@ main:
 
   - title: "Contact"
     url: ./#contact 
-    right: true 
+    right: true
+
+  - title: "Academic Service"
+    url: ./#academic
 
   - title: "Conferences"
     url: ./#conferences
