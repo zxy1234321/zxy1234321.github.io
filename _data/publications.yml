@@ -13,7 +13,7 @@ main:
     notes: Published
 
   - title: "Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation"
-    authors: "<strong>Xingyue Zhao*</strong>, Zhongyu Li*, Xiangde Luo*, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
+    authors: "<strong>Xingyue Zhao</strong>, Zhongyu Li, Xiangde Luo, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
     # conference_short: TCSVT
     conference: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
     pdf: https://ieeexplore.ieee.org/abstract/document/10508987/
