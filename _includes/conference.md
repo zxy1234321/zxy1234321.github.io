@@ -1,6 +1,8 @@
 <h1 id="conferences"></h1>
 
 <h2 style="margin: 30px 0px -15px;">Conferences<temp style="font-size:15px;"></temp></h2>
+<div style="font-size:14px; margin: 20px 0px -30px;">* Denotes equal contribution/co-first authorship</div>
+
 
 <div class="publications">
 <ol class="bibliography">
