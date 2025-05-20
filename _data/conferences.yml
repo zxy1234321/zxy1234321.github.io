@@ -7,6 +7,15 @@ main:
   #   web: https://bemagic-etn.eu/news/81-bemagic-final-event-post-event
   #   image: ./assets/img/autova.png
   #   notes: 
+  - title: "ActiveSSF: An Active-Learning-Guided Self-Supervised Framework for Long-Tailed Megakaryocyte Classification"
+    authors: Linghao Zhuang, Ying Zhang, Gege Yuan, <strong>Xingyue Zhao</strong>, Zhiping Jiang
+    conference_short: EMBC
+    conference: IEEE EMBC, 2025
+    pdf: https://arxiv.org/pdf/2502.08200
+    # web: https://www.jems2023.es/
+    # bibtex: ./assets/files/natureMethods.txt
+    # image: ./assets/files/ISBI.jpg
+    notes: Accepted
 
   - title: "SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching"
     authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li

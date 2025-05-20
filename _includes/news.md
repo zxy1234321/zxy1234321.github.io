@@ -3,6 +3,7 @@
 <h2 style="margin: 30px 0px 10px;">News</h2>
 
 <ul>
+li><strong>[4. 2025]</strong> Our paper <span style="color:#e74d3c">ActiveSSF: An Active-Learning-Guided Self-Supervised Framework for Long-Tailed Megakaryocyte Classification</span> was accepted by <strong>IEEE EMBC 2025</strong>, congratulate <span style="color:#e74d3c"><a href="">Linghao Zhuang</a></span></li>
 <li><strong>[7. 2024]</strong> Our paper <span style="color:#e74d3c">HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction</span> was accepted by <strong>BMVC 2024</strong>, congratulate <span style="color:#e74d3c"><a href="https://zhaohaoyu376.github.io/">Haoyu Zhao</a></span></li>
 <li><strong>[4. 2024]</strong> Our paper <span style="color:#e74d3c">Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation</span> was accepted by <strong>TCSVT</strong>, thanks to all co-authors</li>
 <li><strong>[2. 2024]</strong> Our paper <span style="color:#e74d3c">SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching</span> was accepted by <strong>ISBI 2024</strong>, thanks to all co-authors</li>
