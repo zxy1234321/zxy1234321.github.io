@@ -5,7 +5,7 @@
 <ul style="line-height: 1.5; margin: 0;">
     <li>
       <details>
-    <summary><a>Reading Note</a></div></summary>
+    <summary><a>Reading Note</a></summary>
 <p>03/2025   因为正如赫鲁晓夫所说，一旦互相发射导弹，共产主义的灰烬和资本主义的灰烬将没有什么差别，连最极端的意识形态倡导者也分辨不出来，因为他也已经死了。
     在当今这个时代，面对如此多的不确定性，只有一点是确定的：我们要面对“世界是不确定的”这个事实。 -- 《不确定的时代》</p>
 <p>12/2024    也许艺术家的目光和心思已在别处。也许他们已经感到需要妥协。成为一名艺术企业家的后果之一是，你会像任何从商的人一样，容易接受权宜的哲学，接受偶尔也要与魔鬼做交易的现实。一旦你与那个尖尾巴的魔鬼从同一把勺子里喝水，
@@ -42,22 +42,22 @@
 <p>02/2023 不管全世界所有人怎么说，我都认为自己的感受才是正确的。无论别人怎么看，我绝不打乱自己的节奏。喜欢的事自然可以坚持，不喜欢怎么也长久不了。 -- 《当我谈跑步时我谈些什么》</p>
 <p>01/2023 每个人心里都有个死小孩。 -- 《龙族》</p>
       </details>
-    </li>
-<li>
+</li>
+<p>
 I am a big fans of CBlock, Higher Brother, GOSH, and Zhanfei Lan.
-</li>
-<li>
+</p>
+<p>
 I enjoy fitness, hiking, swimming, skateboarding, and road cycling.
-</li>
-<li>
+</p>
+<p>
 To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of LIFE.
-</li>
-<li>
+</p>
+<p>
 你要這麼想，凡事他都有兩面性，一面是好的，另一面是更好的
-</li>
-<li>
+</p>
+<p>
 纯真而不欠闻达，善良而不失坚强，把生命高举在尘埃之上，又融化于社会之中，这应当是我们这一代的共同追求
-</li>
+</p>
 </ul>
 
 
