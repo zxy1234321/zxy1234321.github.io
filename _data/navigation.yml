@@ -7,10 +7,10 @@ main:
   - title: "Academic Service"
     url: ./#academic
 
-  - title: "Conferences"
-    url: ./#conferences
+  # - title: "Conferences"
+  #   url: ./#conferences
 
-  - title: "Publications"
+  - title: "Selected Publications"
     url: ./#publications
 
   - title: "Projects"

@@ -16,8 +16,7 @@ I am currently a 2th-year Master student at [Xi’an Jiaotong University](https:
 
 {% include_relative _includes/publications.md %}
 
-{% include_relative _includes/conference.md %}
-
+<!-- {% include_relative _includes/conference.md %} -->
 {% include_relative _includes/projects.md %}
 
 {% include_relative _includes/academic.md %}

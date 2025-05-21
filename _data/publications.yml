@@ -11,6 +11,23 @@ main:
     bibtex: ./assets/files/natureMethods.txt
     #image: ./assets/files/natureMethods.jpg
     notes: Accepted
+  
+  - title: "ActiveSSF: An Active-Learning-Guided Self-Supervised Framework for Long-Tailed Megakaryocyte Classification"
+    authors: Linghao Zhuang, Ying Zhang, Gege Yuan, <strong>Xingyue Zhao</strong>, Zhiping Jiang
+    conference_short: EMBC
+    conference: IEEE EMBC, 2025
+    pdf: https://arxiv.org/pdf/2502.08200
+    # web: https://www.jems2023.es/
+    # bibtex: ./assets/files/natureMethods.txt
+    # image: ./assets/files/ISBI.jpg
+    notes: Accepted
+  
+  - title: "HFGS: 4D Gaussian Splatting with Emphasis on Spatial and Temporal High-Frequency Components for Endoscopic Scene Reconstruction"
+    authors: Haoyu Zhao, <strong>Xingyue Zhao*</strong>, Lingting Zhu, Weixi Zheng, Yongchao Xu (*equal contribution)
+    conference: British Machine Vision Conference <strong>(BMVC)</strong>, 2024.
+    pdf: https://arxiv.org/pdf/2405.17872
+    code: https://github.com/zhaohaoyu376/HFGS
+    notes: Accepted
 
   - title: "Ultrasound Nodule Segmentation Using Asymmetric Learning with Simple Clinical Annotation"
     authors: "<strong>Xingyue Zhao</strong>, Zhongyu Li, Xiangde Luo, Peiqi Li, Peng Huang, Jianwei Zhu, Yang Liu, Jihua Zhu, Meng Yang, Shi Chang, Jun Dong"
@@ -21,6 +38,17 @@ main:
     bibtex: ./assets/files/TCSVT.txt
     #image: ./assets/files/TCSVT.jpg
     notes: Accepted
+  
+  - title: "SAM-Driven Weakly Supervised Nodule Segmentation With Uncertainty-Aware Cross Teaching"
+    authors: <strong>Xingyue Zhao</strong>, Peiqi Li, Xiangde Luo, Meng Yang, Shi Chang, Zhongyu Li
+    conference_short: ISBI
+    conference: 2024 IEEE International Symposium on Biomedical Imaging (ISBI 2024)
+    pdf: https://arxiv.org/abs/2407.13553
+    # web: https://www.jems2023.es/
+    # bibtex: ./assets/files/natureMethods.txt
+    image: ./assets/files/ISBI.jpg
+    notes: Accepted (oral)
+
 
   # - title: Magneto‐Ionics in Annealed W/CoFeB/HfO2 Thin Films
   #   authors: Rohit Pachat, Djoudi Ourdani, Maria‐andromachi Syskaki, Alessio Lamperti, Subhajit Roy, <strong>Song Chen</strong>, Adriano Di Pietro, Ludovic Largeau, Roméo Juge, Maryam Massouras, Cristina Balan, Johannes Wilhelmus van der Jagt, Guillaume Agnus, Yves Roussigné, Mihai Gabor, Salim Mourad Chérif, Gianfranco Durin, Shimpei Ono, Jürgen Langer, Damien Querlioz, Dafiné Ravelosona, Mohamed Belmeguenai, Liza Herrera Diez
