@@ -43,21 +43,12 @@
 <p>01/2023 每个人心里都有个死小孩。 -- 《龙族》</p>
       </details>
 </li>
-<p>
-I am a big fans of CBlock, Higher Brother, GOSH, and Zhanfei Lan.
-</p>
-<p>
-I enjoy fitness, hiking, swimming, skateboarding, and road cycling.
-</p>
-<p>
-To see the world, things dangerous to come to, to see behind walls, to draw closer, to find each other and to feel. That is the purpose of LIFE.
-</p>
-<p>
-你要這麼想，凡事他都有兩面性，一面是好的，另一面是更好的
-</p>
-<p>
-纯真而不欠闻达，善良而不失坚强，把生命高举在尘埃之上，又融化于社会之中，这应当是我们这一代的共同追求
-</p>
+<li>
+<details>
+<summary><a>Reading Note</a></summary>
+<p>I am a big fans of CBlock, Higher Brother, GOSH, and Zhanfei Lan.</p>
+</li>
+
 </ul>
 
 
