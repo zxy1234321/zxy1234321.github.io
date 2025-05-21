@@ -4,6 +4,9 @@ main:
     url: ./#contact 
     right: true
 
+  - title: "Misc"
+    url: ./#misc
+
   - title: "Academic Service"
     url: ./#academic
 
